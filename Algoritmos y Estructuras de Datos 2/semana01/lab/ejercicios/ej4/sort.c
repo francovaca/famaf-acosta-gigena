@@ -5,7 +5,7 @@
 
 #include "array_helpers.h"
 #include "sort.h"
-
+//leandro se la come
 static bool goes_before(int x, int y){
 	if(abs(x)==abs(y)) {
 		return x<y;
